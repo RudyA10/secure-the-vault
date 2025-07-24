@@ -1,6 +1,7 @@
 //This is javascript - block08 assignment
 
-var code1 = 2 * 5;
+var code1;
+code1 = 7 + 3;
 
 var code2 = (100 - 20) / 2;
 
