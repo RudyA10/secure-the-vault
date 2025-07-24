@@ -1,16 +1,10 @@
-//This is javascript
+//This is javascript - block08 assignment
 
-var code1 = "code1";
+var code1 = 2 * 5;
 
-code1 = 2 * 5;
+var code2 = (100 - 20) / 2;
 
-var code2 = "code2";
-
-code2 = (100 - 20) / 2;
-
-var code3 = "code3";
-
-code3 = 100 % 61;
+var code3 = 100 % 61;
 
 var message = "The value of the vault has been secured. The combination is: ";
 
